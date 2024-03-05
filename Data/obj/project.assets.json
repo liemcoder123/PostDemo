@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acmab\\source\\repos\\ModDemo\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\acmab\\Desktop\\PostDemo\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\acmab\\source\\repos\\ModDemo\\Data\\Data.csproj",
+      "projectPath": "C:\\Users\\acmab\\Desktop\\PostDemo\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\acmab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acmab\\source\\repos\\ModDemo\\Data\\obj\\",
+      "outputPath": "C:\\Users\\acmab\\Desktop\\PostDemo\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acmab\\AppData\\Roaming\\NuGet\\NuGet.Config",

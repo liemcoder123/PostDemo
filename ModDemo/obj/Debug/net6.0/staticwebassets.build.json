@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "Hash": "hCoM1ur3aLiwudmMXtjDxHAauIJPm/nO9LtxaEVCYPc=",
+  "Hash": "d2wZoRJCr19LXS+dncrNWvnvg/0nRd7BVKeqGbWYUj0=",
   "Source": "ModDemo",
   "BasePath": "_content/ModDemo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\acmab\\source\\repos\\ModDemo\\Data\\Data.csproj",
+      "Identity": "C:\\Users\\acmab\\Desktop\\PostDemo\\Data\\Data.csproj",
       "Version": 2,
       "Source": "Data",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
